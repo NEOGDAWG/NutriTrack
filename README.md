@@ -1,4 +1,4 @@
-# Food Tracker
+# NUTRITRACK
 
 ## An application that tracks your food intake and eating habits
 
