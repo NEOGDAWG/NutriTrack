@@ -1,0 +1,15 @@
+{
+    "calorieGoal": 2000,
+    "eatenToday": [
+        {
+            "ishealthy": true,
+            "name": "Apple",
+            "calories": 95
+        },
+        {
+            "ishealthy": false,
+            "name": "Burger",
+            "calories": 500
+        }
+    ]
+}
